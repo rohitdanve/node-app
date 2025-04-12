@@ -9,3 +9,5 @@
   - Mongo DB
 
   - GitHub
+
+  - Mysql
