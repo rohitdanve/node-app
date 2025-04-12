@@ -14,4 +14,4 @@
 
 ## Tool
   - vsCode
-  - photoshop
+  - photoshops
